@@ -4,8 +4,9 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body>
+      <body className="transition-colors duration-300 ease-in-out">
         <Main />
+
         <NextScript />
       </body>
     </Html>

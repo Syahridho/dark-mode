@@ -40,7 +40,8 @@ export default function Home() {
           <p className="text-justify text-slate-500 dark:text-slate-300 theme-transition">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aperiam
             voluptas error totam iure odio consectetur hic sint qui quisquam?
-            Sunt corporis quia animi, nulla ratione repudiandae hic quidem iure!
+            Sunt corporis quia animi, nulla ratione repudiandae hic quidem
+            iure!!
           </p>
           <button
             className="w-full bg-slate-800 text-white py-2 rounded mt-6 shadow theme-transition"
